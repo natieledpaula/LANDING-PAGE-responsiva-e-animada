@@ -90,7 +90,7 @@ Este projeto está sob a **Licença MIT** – sinta-se à vontade para copiar, m
 
 ## 🙋‍♀️ Autor
 
-Feito com 💙 por [Natiele Nogueira]  
+Feito com 💙 por Natiele Nogueira 
 Projeto desenvolvido para fins de estudo em desenvolvimento front-end moderno.
 
 ---
