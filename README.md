@@ -8,9 +8,9 @@ Este projeto consiste em uma **Landing Page moderna, responsiva e com animaçõe
 
 ## 📸 Imagem de Prévia
 
-![alt text](image.png)
+![alt text](src/img/image.png)
 ![alt text](src/img/image-1.png)
-![alt text](image-2.png)
+![alt text](src/img/image-2.png)
 
 ---
 
