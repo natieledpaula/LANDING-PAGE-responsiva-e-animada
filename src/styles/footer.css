@@ -1,0 +1,20 @@
+footer {
+    background-color: #ffe8b4;
+}
+
+#footer_content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 8% 24px 8%;
+}
+
+#logo_ng {
+    height: 200px;
+}
+
+#copyright {
+    color: #1d1d1d;
+    font-weight: 500;
+}

@@ -113,3 +113,11 @@
         flex-direction: column;
     }
 }
+
+/* Rodapé */
+@media screen and (max-width: 600px) {
+    #footer_content {
+        flex-direction: column;
+        gap: 20px;
+    }
+}
