@@ -30,3 +30,27 @@
         list-style: none;
     }
 }
+
+/* Home contatos e informações */
+@media screen and (max-width: 1170px) {
+    #home {
+        min-height: 100%;
+        padding-top: 0;
+    }
+
+    #cta {
+        width: 100%;
+        align-items: center;
+        text-align: center;
+    }
+
+    #banner, #banner img, #home .shape {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    #phone_button {
+        display: none;
+    }
+}
