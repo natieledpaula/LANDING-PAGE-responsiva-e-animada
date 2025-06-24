@@ -40,9 +40,9 @@ Este projeto consiste em uma **Landing Page moderna, responsiva e com animaçõe
 landing-page/
 ├── index.html # Estrutura da página
 ├── src/
-│ ├── javascript # Interações com jQuery
-| ├── styles # Estilos e responsividade
-│ └── img # Imagens utilizados
+│    ├── javascript # Interações com jQuery
+|    ├── styles # Estilos e responsividade
+│    └── img # Imagens utilizados
 └── README.md # Documentação
 ```
 
